@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iot-client/static/css/main.98a99b73.chunk.css",
-    "main.js": "/iot-client/static/js/main.2859e7a1.chunk.js",
-    "main.js.map": "/iot-client/static/js/main.2859e7a1.chunk.js.map",
+    "main.js": "/iot-client/static/js/main.ec2b8b0c.chunk.js",
+    "main.js.map": "/iot-client/static/js/main.ec2b8b0c.chunk.js.map",
     "runtime-main.js": "/iot-client/static/js/runtime-main.915675a7.js",
     "runtime-main.js.map": "/iot-client/static/js/runtime-main.915675a7.js.map",
     "static/js/2.a27e570c.chunk.js": "/iot-client/static/js/2.a27e570c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.915675a7.js",
     "static/js/2.a27e570c.chunk.js",
     "static/css/main.98a99b73.chunk.css",
-    "static/js/main.2859e7a1.chunk.js"
+    "static/js/main.ec2b8b0c.chunk.js"
   ]
 }
